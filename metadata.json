@@ -1,0 +1,5 @@
+{
+  "name": "MicroEcom Architecture Demo",
+  "description": "A frontend demonstration of a scalable microservices e-commerce platform. Features a simulated backend architecture dashboard, AI-powered product insights, and a full shopping experience.",
+  "requestFramePermissions": []
+}
